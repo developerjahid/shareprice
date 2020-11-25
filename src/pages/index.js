@@ -15,8 +15,8 @@ import {
 const ClickOutHandler = require("react-onclickout")
 
 const algoliaClient = algoliasearch(
-  "MYW21450JY",
-  "7f7d385f5d1a84f65abe4ad65ef539a0"
+  "MYW2145OJY",
+  "0d473c95dee3ddcd7065ff3f729f7d52"
 )
 
 // removes empty query searches from analytics
